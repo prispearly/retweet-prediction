@@ -3,7 +3,7 @@
 # import the necessary libraries
 from sklearn.linear_model import LogisticRegression
 from tqdm import tqdm
-import preprocessor as p
+# import preprocessor as p
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import TruncatedSVD
